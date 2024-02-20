@@ -1,0 +1,14 @@
+G:\c#\examin\ex_1\bin\Debug\net8.0\ex_1.exe
+G:\c#\examin\ex_1\bin\Debug\net8.0\ex_1.deps.json
+G:\c#\examin\ex_1\bin\Debug\net8.0\ex_1.runtimeconfig.json
+G:\c#\examin\ex_1\bin\Debug\net8.0\ex_1.dll
+G:\c#\examin\ex_1\bin\Debug\net8.0\ex_1.pdb
+G:\c#\examin\ex_1\obj\Debug\net8.0\ex_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\examin\ex_1\obj\Debug\net8.0\ex_1.AssemblyInfoInputs.cache
+G:\c#\examin\ex_1\obj\Debug\net8.0\ex_1.AssemblyInfo.cs
+G:\c#\examin\ex_1\obj\Debug\net8.0\ex_1.csproj.CoreCompileInputs.cache
+G:\c#\examin\ex_1\obj\Debug\net8.0\ex_1.dll
+G:\c#\examin\ex_1\obj\Debug\net8.0\refint\ex_1.dll
+G:\c#\examin\ex_1\obj\Debug\net8.0\ex_1.pdb
+G:\c#\examin\ex_1\obj\Debug\net8.0\ex_1.genruntimeconfig.cache
+G:\c#\examin\ex_1\obj\Debug\net8.0\ref\ex_1.dll

@@ -1,0 +1,14 @@
+G:\c#\examin\ex_2\obj\Debug\net8.0\examin.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\examin\ex_2\obj\Debug\net8.0\examin.AssemblyInfoInputs.cache
+G:\c#\examin\ex_2\obj\Debug\net8.0\examin.AssemblyInfo.cs
+G:\c#\examin\ex_2\obj\Debug\net8.0\examin.csproj.CoreCompileInputs.cache
+G:\c#\examin\ex_2\bin\Debug\net8.0\examin.exe
+G:\c#\examin\ex_2\bin\Debug\net8.0\examin.deps.json
+G:\c#\examin\ex_2\bin\Debug\net8.0\examin.runtimeconfig.json
+G:\c#\examin\ex_2\bin\Debug\net8.0\examin.dll
+G:\c#\examin\ex_2\bin\Debug\net8.0\examin.pdb
+G:\c#\examin\ex_2\obj\Debug\net8.0\examin.dll
+G:\c#\examin\ex_2\obj\Debug\net8.0\refint\examin.dll
+G:\c#\examin\ex_2\obj\Debug\net8.0\examin.pdb
+G:\c#\examin\ex_2\obj\Debug\net8.0\examin.genruntimeconfig.cache
+G:\c#\examin\ex_2\obj\Debug\net8.0\ref\examin.dll
